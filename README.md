@@ -17,5 +17,6 @@ provided to me by my employers.
 [^dotfiles-old]: https://github.com/tklarryonline/dotfiles_old
 [^dotfiles-wsl]: https://github.com/tklarryonline/dotfiles-wsl
 [^dotfiles-company-computer]: https://github.com/tklarryonline/dotfiles-company-computer
+
 [brew.sh]: https://brew.sh/
 [dotfiles-company-computer]: https://github.com/tklarryonline/dotfiles-company-computer
