@@ -1,0 +1,16 @@
+
+# tap repositories and their packages
+
+tap homebrew/core
+
+tap homebrew/cask
+cask discord
+cask evkey
+cask iterm2
+cask obsidian
+cask visual-studio-code
+
+tap homebrew/bundle
+
+tap rcmdnk/file
+brew brew-file
