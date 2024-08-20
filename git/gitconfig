@@ -1,0 +1,10 @@
+[gpg]
+	format = ssh
+[gpg "ssh"]
+	program = /Applications/1Password.app/Contents/MacOS/op-ssh-sign
+[commit]
+	gpgsign = true
+[user]
+    name = "Luan Nguyen"
+    email = "luan@tklarryonline.me"
+	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMYBOCMpS4vdSNQfy1lLNiIJHr2p/Cx1drmP3IV1P8r8
