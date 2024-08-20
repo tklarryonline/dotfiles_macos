@@ -13,11 +13,19 @@ $ setup_brew.sh
 
 ## Included apps
 
-- EVkey for typing Vietnamese dialects
+### Casks
+
+- ChatGPT, but it's incompatible with Intel Macs.
 - Discord for community chats
+- EVkey for typing Vietnamese dialects
 - iTerm2 for terminal uses
 - LogiOptions+ because of my Logitech MX Master 3 mouse
 - Obsidian for notes
 - Visual Studio Code as my daily code editor
 
+### Terminal apps
+
+- Neovim because I love Vim and am using [vscode-neovim] extension.
+
 [homebrew-file]: https://github.com/rcmdnk/homebrew-file
+[vscode-neovim]: https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim
