@@ -10,12 +10,14 @@ brew luajit
 brew luv
 brew msgpack
 brew neovim
+brew starship
 brew tree-sitter
 brew unibilium
 
 tap homebrew/cask
 cask discord
 cask evkey
+cask font-hack-nerd-font
 cask fork
 cask iterm2
 cask logi-options-plus

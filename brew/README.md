@@ -15,17 +15,19 @@ $ setup_brew.sh
 
 ### Casks
 
-- ChatGPT, but it's incompatible with Intel Macs.
-- Discord for community chats
-- EVkey for typing Vietnamese dialects
-- iTerm2 for terminal uses
-- LogiOptions+ because of my Logitech MX Master 3 mouse
-- Obsidian for notes
-- Visual Studio Code as my daily code editor
+- Discord for community chats.
+- EVkey for typing Vietnamese dialects.
+- Fork for a nice Git UI.
+- iTerm2 for terminal uses.
+- LogiOptions+ because of my Logitech MX Master 3 mouse.
+- Obsidian for notes.
+- Visual Studio Code as my daily code editor.
 
 ### Terminal apps
 
+- brew-file for efficient and reproducible brew package management.
 - Neovim because I love Vim and am using [vscode-neovim] extension.
+- Starship for a minimal and blazing-fast prompt.
 
 [homebrew-file]: https://github.com/rcmdnk/homebrew-file
 [vscode-neovim]: https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim

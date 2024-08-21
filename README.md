@@ -11,12 +11,21 @@ provided to me by my employers.
 
 - I try to manage all of my apps using [Homebrew][brew.sh].
 - There are a few exceptions, mainly because I want the following apps handle their own updates:
-    - 1Password
-    - Arc browser
+    - [1Password][1password]
+    - [Arc browser][arc-browser]
+    
+## Ordering
+
+1. Install [1Password][1password] and browser of choice. I used [Arc][arc-browser] at the time of writing.
+2. Set up Homebrew [here](./brew/).
+3. Set up Git [here](./git/).
+4. Set up Shell [here](./zsh/).
 
 [^dotfiles-old]: https://github.com/tklarryonline/dotfiles_old
 [^dotfiles-wsl]: https://github.com/tklarryonline/dotfiles-wsl
 [^dotfiles-company-computer]: https://github.com/tklarryonline/dotfiles-company-computer
 
+[1password]: https://1password.com/downloads/
+[arc-browser]: https://arc.net/
 [brew.sh]: https://brew.sh/
 [dotfiles-company-computer]: https://github.com/tklarryonline/dotfiles-company-computer
