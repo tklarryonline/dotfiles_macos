@@ -16,6 +16,7 @@ brew unibilium
 tap homebrew/cask
 cask discord
 cask evkey
+cask fork
 cask iterm2
 cask logi-options-plus
 cask obsidian
