@@ -13,15 +13,19 @@ $ setup_brew.sh
 
 ## Included apps
 
+I prefer using Brew to install applications, and the list below includes my conscious choices of apps and casks.
+
 ### Casks
 
-- Discord for community chats.
-- EVkey for typing Vietnamese dialects.
-- Fork for a nice Git UI.
-- iTerm2 for terminal uses.
-- LogiOptions+ because of my Logitech MX Master 3 mouse.
-- Obsidian for notes.
-- Visual Studio Code as my daily code editor.
+- [Discord][discord] for community chats.
+- [EVkey][evkey] for typing Vietnamese dialects.
+- [Fork][fork] for a nice Git UI.
+- [iTerm2][iterm2] for terminal uses.
+- [LogiOptions+][logioptions] because of my Logitech MX Master 3 mouse.
+- [Obsidian][obsidian] for personal notes and publications.
+- [Rectangle][rectangle] for windows management.
+- [Visual Studio Code][vscode] as my daily code editor.
+
 
 ### Terminal apps
 
@@ -29,5 +33,13 @@ $ setup_brew.sh
 - Neovim because I love Vim and am using [vscode-neovim] extension.
 - Starship for a minimal and blazing-fast prompt.
 
+[discord]: https://discord.com/
+[evkey]: https://evkeyvn.com/
+[fork]: https://fork.dev/
 [homebrew-file]: https://github.com/rcmdnk/homebrew-file
+[iterm2]: https://iterm2.com/
+[logioptions]: https://www.logitech.com/en-us/software/options.html
+[obsidian]: https://obsidian.md/
+[rectangle]: https://rectangleapp.com/
+[vscode]: https://code.visualstudio.com/
 [vscode-neovim]: https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim
