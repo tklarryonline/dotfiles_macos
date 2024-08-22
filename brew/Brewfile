@@ -8,6 +8,7 @@ brew libvterm
 brew lpeg
 brew luajit
 brew luv
+brew make
 brew msgpack
 brew neovim
 brew starship
