@@ -22,6 +22,8 @@ cask font-hack-nerd-font
 cask fork
 cask iterm2
 cask logi-options-plus
+cask notion
+cask notion-calendar
 cask obsidian
 cask rectangle
 cask visual-studio-code
