@@ -18,10 +18,11 @@ brew unibilium
 tap homebrew/cask
 cask discord
 cask evkey
+cask firefox
 cask font-hack-nerd-font
 cask fork
 cask iterm2
-cask logi-options-plus
+cask logi-options+
 cask notion
 cask notion-calendar
 cask obsidian
@@ -32,3 +33,6 @@ tap homebrew/bundle
 
 tap rcmdnk/file
 brew brew-file
+
+# Other Cask applications
+cask logi-options-plus

@@ -19,13 +19,14 @@ I prefer using Brew to install applications, and the list below includes my cons
 
 - [Discord][discord] for community chats.
 - [EVkey][evkey] for typing Vietnamese dialects.
+- [Firefox][firefox] for safe browsing.
 - [Fork][fork] for a nice Git UI.
 - [iTerm2][iterm2] for terminal uses.
 - [LogiOptions+][logioptions] because of my Logitech MX Master 3 mouse.
 - [Notion][notion] for shared notes in my family.
 - [Notion Calendar][notion-calendar] for managing my calendar.
 - [Obsidian][obsidian] for personal notes and publications.
-- [Rectangle][rectangle] for windows management.
+- [Rectangle][rectangle] for windows management. An open-source alternative to Magnets.
 - [Visual Studio Code][vscode] as my daily code editor.
 
 
@@ -37,6 +38,7 @@ I prefer using Brew to install applications, and the list below includes my cons
 
 [discord]: https://discord.com/
 [evkey]: https://evkeyvn.com/
+[firefox]: https://www.mozilla.org/en-US/firefox/
 [fork]: https://fork.dev/
 [homebrew-file]: https://github.com/rcmdnk/homebrew-file
 [iterm2]: https://iterm2.com/
