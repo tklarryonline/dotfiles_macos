@@ -12,3 +12,6 @@ source "$DOT_ZSH_CONFIG/common.sh"
 
 # Plugins
 source "$DOT_ZSH_CONFIG/plugins.sh"
+
+# Aliases
+source "$DOT_ZSH_CONFIG/aliases.sh"
