@@ -32,20 +32,24 @@ I prefer using Brew to install applications, and the list below includes my cons
 
 ### Terminal apps
 
-- brew-file for efficient and reproducible brew package management.
-- Neovim because I love Vim and am using [vscode-neovim] extension.
-- Starship for a minimal and blazing-fast prompt.
+- [eza] as a Rust replacement for ls.
+- [homebrew-file] for efficient and reproducible brew package management.
+- [neovim] because I love Vim and am using [vscode-neovim] extension.
+- [starship] for a minimal and blazing-fast prompt.
 
 [discord]: https://discord.com/
 [evkey]: https://evkeyvn.com/
+[eza]: https://github.com/eza-community/eza
 [firefox]: https://www.mozilla.org/en-US/firefox/
 [fork]: https://fork.dev/
 [homebrew-file]: https://github.com/rcmdnk/homebrew-file
 [iterm2]: https://iterm2.com/
 [logioptions]: https://www.logitech.com/en-us/software/options.html
-[notion]: https://www.notion.so/
+[neovim]: https://neovim.io/
 [notion-calendar]: https://www.notion.so/product/calendar
+[notion]: https://www.notion.so/
 [obsidian]: https://obsidian.md/
 [rectangle]: https://rectangleapp.com/
+[starship]: https://starship.rs/
 [vscode]: https://code.visualstudio.com/
 [vscode-neovim]: https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim

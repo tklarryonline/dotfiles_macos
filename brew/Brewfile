@@ -2,7 +2,11 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew ca-certificates
+brew eza
 brew gettext
+brew libgit2
+brew libssh2
 brew libuv
 brew libvterm
 brew lpeg
@@ -11,6 +15,7 @@ brew luv
 brew make
 brew msgpack
 brew neovim
+brew openssl@3
 brew starship
 brew tree-sitter
 brew unibilium
