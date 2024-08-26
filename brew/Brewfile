@@ -33,6 +33,7 @@ cask notion-calendar
 cask obsidian
 cask rectangle
 cask visual-studio-code
+cask zoom
 
 tap homebrew/bundle
 

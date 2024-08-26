@@ -28,6 +28,7 @@ I prefer using Brew to install applications, and the list below includes my cons
 - [Obsidian][obsidian] for personal notes and publications.
 - [Rectangle][rectangle] for windows management. An open-source alternative to Magnets.
 - [Visual Studio Code][vscode] as my daily code editor.
+- [Zoom][zoom] for video calls and meetings.
 
 
 ### Terminal apps
@@ -53,3 +54,4 @@ I prefer using Brew to install applications, and the list below includes my cons
 [starship]: https://starship.rs/
 [vscode]: https://code.visualstudio.com/
 [vscode-neovim]: https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim
+[zoom]: https://www.zoom.us/
