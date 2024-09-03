@@ -14,12 +14,16 @@ provided to me by my employers.
     - [1Password][1password]
     - [Arc browser][arc-browser]
     
-## Ordering
+## Setting Up
 
 1. Install [1Password][1password] and browser of choice. I used [Arc][arc-browser] at the time of writing.
-2. Set up Homebrew [here](./brew/).
-3. Set up Git [here](./git/).
-4. Set up Shell [here](./zsh/).
+2. Install macOS Command Line Tools to get `git`, compiles, etc.
+    ```sh
+    $ xcode-select --install
+    ```
+3. Set up Homebrew [here](./brew/).
+4. Set up Git [here](./git/).
+5. Set up Shell [here](./zsh/).
 
 [^dotfiles-old]: https://github.com/tklarryonline/dotfiles_old
 [^dotfiles-wsl]: https://github.com/tklarryonline/dotfiles-wsl

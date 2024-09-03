@@ -3,6 +3,8 @@
 # Install Homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+(echo; echo 'eval "\$(${HOMEBREW_PREFIX}/bin/brew shellenv)"') >> $HOME/.zprofile
+
 # Set HOMEBREW_BREWFILE
 export HOMEBREW_BREWFILE=~/.dotfiles/brew/Brewfile
 
