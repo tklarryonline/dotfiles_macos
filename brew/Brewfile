@@ -12,6 +12,7 @@ brew eza
 brew gettext
 brew gh
 brew gmp
+brew jq
 brew libgit2
 brew libssh2
 brew libtool
@@ -25,8 +26,10 @@ brew m4
 brew make
 brew msgpack
 brew neovim
+brew oniguruma
 brew openssl@3
 brew readline
+brew rush-parallel
 brew starship
 brew tree-sitter
 brew unibilium
