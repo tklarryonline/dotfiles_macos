@@ -33,6 +33,7 @@ I prefer using Brew to install applications, and the list below includes my cons
 
 ### Terminal apps
 
+- [eva] as a simple calculator REPL, similar to bc(1), with syntax highlighting and persistent history.
 - [eza] as a Rust replacement for ls.
 - [homebrew-file] for efficient and reproducible brew package management.
 - [neovim] because I love Vim and am using [vscode-neovim] extension.
@@ -40,6 +41,7 @@ I prefer using Brew to install applications, and the list below includes my cons
 
 [discord]: https://discord.com/
 [evkey]: https://evkeyvn.com/
+[eva]: https://github.com/oppiliappan/eva
 [eza]: https://github.com/eza-community/eza
 [firefox]: https://www.mozilla.org/en-US/firefox/
 [fork]: https://fork.dev/

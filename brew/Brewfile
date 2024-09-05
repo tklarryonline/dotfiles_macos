@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew ca-certificates
+brew eva
 brew eza
 brew gettext
 brew libgit2
@@ -26,6 +27,7 @@ cask evkey
 cask firefox
 cask font-hack-nerd-font
 cask fork
+cask google-drive
 cask iterm2
 cask logi-options+
 cask notion
@@ -40,5 +42,9 @@ tap homebrew/bundle
 tap rcmdnk/file
 brew brew-file
 
-# Other Cask applications
-cask logi-options-plus
+# App Store applications
+appstore 682658836 GarageBand (10.4.8)
+appstore 408981434 iMovie (10.3.9)
+appstore 409183694 Keynote (14.1)
+appstore 409203825 Numbers (14.1)
+appstore 409201541 Pages (14.1)
