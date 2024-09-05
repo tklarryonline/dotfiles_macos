@@ -1,4 +1,6 @@
-# A minimal .zshrc that uses Starship.rs prompt
+# ***************************************************************
+# A minimal .zshrc file that uses Starship.rs prompt
+# ***************************************************************
 
 # Path to the Dotfiles
 export DOTFILES_DIR="$HOME/.dotfiles"
