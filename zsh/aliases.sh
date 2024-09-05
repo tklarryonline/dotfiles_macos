@@ -16,3 +16,12 @@ alias ccd='clear && cd'
 alias ls='eza'
 alias ll='eza -l'
 alias la='eza -lag --header'
+
+# Git-related short aliases
+alias gs='git status'
+alias ga='git add'
+alias gc='git commit'
+alias gca='git commit -am'
+alias gp='git push'
+alias gl='git log'
+alias gco='git checkout'
