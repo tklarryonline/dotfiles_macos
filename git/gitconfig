@@ -6,5 +6,13 @@
 	gpgsign = true
 [user]
 	name = Luan Nguyen
-	email = luan@tklarryonline.me
+	email = 2020169+tklarryonline@users.noreply.github.com
 	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMYBOCMpS4vdSNQfy1lLNiIJHr2p/Cx1drmP3IV1P8r8
+[credential "https://github.com"]
+	helper = 
+	helper = !/opt/homebrew/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/opt/homebrew/bin/gh auth git-credential
+[includeIf "gitdir:~/Dev/Envato/src/"]
+    path = ~/Dev/Envato/src/.gitconfig

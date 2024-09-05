@@ -10,6 +10,7 @@ brew coreutils
 brew eva
 brew eza
 brew gettext
+brew gh
 brew gmp
 brew libgit2
 brew libssh2
