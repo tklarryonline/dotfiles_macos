@@ -25,11 +25,16 @@ provided to me by my employers.
 4. Set up Git [here](./git/).
 5. Set up Shell [here](./zsh/).
 
+## Resources
+
+- [awesome-alternatives-in-rust]
+
 [^dotfiles-old]: https://github.com/tklarryonline/dotfiles_old
 [^dotfiles-wsl]: https://github.com/tklarryonline/dotfiles-wsl
 [^dotfiles-company-computer]: https://github.com/tklarryonline/dotfiles-company-computer
 
 [1password]: https://1password.com/downloads/
+[awesome-alternatives-in-rust]: https://github.com/TaKO8Ki/awesome-alternatives-in-rust
 [arc-browser]: https://arc.net/
 [brew.sh]: https://brew.sh/
 [dotfiles-company-computer]: https://github.com/tklarryonline/dotfiles-company-computer
