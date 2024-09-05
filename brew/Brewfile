@@ -2,24 +2,34 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew asdf
+brew autoconf
+brew automake
 brew ca-certificates
+brew coreutils
 brew eva
 brew eza
 brew gettext
+brew gmp
 brew libgit2
 brew libssh2
+brew libtool
 brew libuv
 brew libvterm
+brew libyaml
 brew lpeg
 brew luajit
 brew luv
+brew m4
 brew make
 brew msgpack
 brew neovim
 brew openssl@3
+brew readline
 brew starship
 brew tree-sitter
 brew unibilium
+brew unixodbc
 
 tap homebrew/cask
 cask discord

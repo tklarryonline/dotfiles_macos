@@ -13,5 +13,8 @@ source "$DOT_ZSH_CONFIG/common.sh"
 # Plugins
 source "$DOT_ZSH_CONFIG/plugins.sh"
 
+# Terminal tool
+source "$DOT_ZSH_CONFIG/tools.sh"
+
 # Aliases
 source "$DOT_ZSH_CONFIG/aliases.sh"

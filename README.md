@@ -24,6 +24,7 @@ provided to me by my employers.
 3. Set up Homebrew [here](./brew/).
 4. Set up Git [here](./git/).
 5. Set up Shell [here](./zsh/).
+6. Set up asdf [here](./asdf/)
 
 ## Resources
 
