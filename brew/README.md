@@ -22,6 +22,7 @@ I prefer using Brew to install applications, and the list below includes my cons
 - [Firefox][firefox] for safe browsing.
 - [Fork][fork] for a nice Git UI.
 - [iTerm2][iterm2] for terminal uses.
+- [JetBrains Toolbox][jetbrains-toolbox] for JetBrains IDE.
 - [LogiOptions+][logioptions] because of my Logitech MX Master 3 mouse.
 - [Notion][notion] for shared notes in my family.
 - [Notion Calendar][notion-calendar] for managing my calendar.
@@ -36,7 +37,9 @@ I prefer using Brew to install applications, and the list below includes my cons
 - [eva] as a simple calculator REPL, similar to bc(1), with syntax highlighting and persistent history.
 - [eza] as a Rust replacement for ls.
 - [homebrew-file] for efficient and reproducible brew package management.
+- [jq] for JSON parsing and querying.
 - [neovim] because I love Vim and am using [vscode-neovim] extension.
+- [rush] for running parallel commands.
 - [starship] for a minimal and blazing-fast prompt.
 
 [discord]: https://discord.com/
@@ -47,12 +50,15 @@ I prefer using Brew to install applications, and the list below includes my cons
 [fork]: https://fork.dev/
 [homebrew-file]: https://github.com/rcmdnk/homebrew-file
 [iterm2]: https://iterm2.com/
+[jetbrains-toolbox]: https://www.jetbrains.com/toolbox-app/
+[jq]: https://jqlang.github.io/jq/
 [logioptions]: https://www.logitech.com/en-us/software/options.html
 [neovim]: https://neovim.io/
 [notion-calendar]: https://www.notion.so/product/calendar
 [notion]: https://www.notion.so/
 [obsidian]: https://obsidian.md/
 [rectangle]: https://rectangleapp.com/
+[rush]: https://github.com/shenwei356/rush
 [starship]: https://starship.rs/
 [vscode]: https://code.visualstudio.com/
 [vscode-neovim]: https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim
