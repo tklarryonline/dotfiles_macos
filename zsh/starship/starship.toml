@@ -4,3 +4,8 @@
 # General
 # Inserts a blank line between shell prompts
 add_newline = true
+
+# Some times a command can time out...
+# Especially the dreaded asdf-shim for node...
+# See https://github.com/asdf-vm/asdf/issues/290
+command_timeout = 700
