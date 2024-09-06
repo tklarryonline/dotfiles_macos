@@ -1,7 +1,6 @@
 # ***************************************************************
 # Common settings for my shell environment, including:
 # - Homebrew-file
-# - GNU Make
 # ***************************************************************
 
 # Homebrew-file
@@ -12,7 +11,9 @@ if [ -f $(brew --prefix)/etc/brew-wrap ];then
   source $(brew --prefix)/etc/brew-wrap
 fi
 
-# GNU make setup
-# Switch to use GNU Make installation from Brew
-# https://formulae.brew.sh/formula/make
-export PATH="$(brew --prefix make)/libexec/gnubin:$PATH"
+# Under macOS Monterey and later, you need to set a magic environment variable
+# to prevent the following error:
+# `[__NSCFConstantString initialize] may have been in progress in another thread`.
+# I experienced `socket hang on` error caused by this issue.
+# https://stackoverflow.com/questions/50168647/multiprocessing-causes-python-to-crash-and-gives-an-error-may-have-been-in-progr
+export OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES
