@@ -113,6 +113,7 @@ brew zstd
 
 tap homebrew/cask
 cask discord
+cask docker
 cask evkey
 cask firefox
 cask font-hack-nerd-font

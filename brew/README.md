@@ -18,6 +18,7 @@ I prefer using Brew to install applications, and the list below includes my cons
 ### Casks
 
 - [Discord][discord] for community chats.
+- [Docker Desktop][docker-desktop] for Docker GUI and container management.
 - [EVkey][evkey] for typing Vietnamese dialects.
 - [Firefox][firefox] for safe browsing.
 - [Fork][fork] for a nice Git UI.
@@ -51,6 +52,7 @@ I need to set up my development environment specifically.
 - [gpg][gnupg] (GNU Pretty Good Privacy (PGP) package) to help with installing `yarn` from asdf.
 
 [discord]: https://discord.com/
+[docker-desktop]: https://www.docker.com/products/docker-desktop/
 [evkey]: https://evkeyvn.com/
 [eva]: https://github.com/oppiliappan/eva
 [eza]: https://github.com/eza-community/eza
