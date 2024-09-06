@@ -42,16 +42,26 @@ I prefer using Brew to install applications, and the list below includes my cons
 - [rush] for running parallel commands.
 - [starship] for a minimal and blazing-fast prompt.
 
+### Terminal tools
+
+Some terminal tools listed in Brewfile are installed as required by the terminal apps above. The following are ones
+I need to set up my development environment specifically.
+
+- [llvm@15] to install `grpc` gem. `llvm@15` requires lz4, xz and zstd.
+- [gpg][gnupg] (GNU Pretty Good Privacy (PGP) package) to help with installing `yarn` from asdf.
+
 [discord]: https://discord.com/
 [evkey]: https://evkeyvn.com/
 [eva]: https://github.com/oppiliappan/eva
 [eza]: https://github.com/eza-community/eza
 [firefox]: https://www.mozilla.org/en-US/firefox/
 [fork]: https://fork.dev/
+[gnupg]: https://gnupg.org/
 [homebrew-file]: https://github.com/rcmdnk/homebrew-file
 [iterm2]: https://iterm2.com/
 [jetbrains-toolbox]: https://www.jetbrains.com/toolbox-app/
 [jq]: https://jqlang.github.io/jq/
+[llvm@15]: https://github.com/llvm/llvm-project/releases/tag/llvmorg-15.0.7
 [logioptions]: https://www.logitech.com/en-us/software/options.html
 [neovim]: https://neovim.io/
 [notion-calendar]: https://www.notion.so/product/calendar
