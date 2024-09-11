@@ -112,6 +112,7 @@ brew xz
 brew zstd
 
 tap homebrew/cask
+cask bruno
 cask discord
 cask docker
 cask evkey

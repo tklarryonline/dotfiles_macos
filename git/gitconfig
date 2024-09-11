@@ -7,7 +7,7 @@
 [user]
 	name = Luan Nguyen
 	email = 2020169+tklarryonline@users.noreply.github.com
-	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMYBOCMpS4vdSNQfy1lLNiIJHr2p/Cx1drmP3IV1P8r8
+	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN1bZ+mJhcL0Fz/onhpLdDEy1afX6hPSMKXeoWTHGkjo
 [credential "https://github.com"]
 	helper = 
 	helper = !/opt/homebrew/bin/gh auth git-credential
