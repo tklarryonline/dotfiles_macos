@@ -7,11 +7,14 @@ brew asdf
 brew autoconf
 brew automake
 brew aws-vault
+brew awscli
 brew brotli
 brew ca-certificates
 brew caddy
 brew cairo
+brew cffi
 brew coreutils
+brew cryptography
 brew dnscrypt-proxy
 brew eva
 brew eza
@@ -95,6 +98,8 @@ brew pcre2
 brew pinentry
 brew pixman
 brew postgresql@15
+brew pycparser
+brew python@3.11
 brew python@3.12
 brew readline
 brew redis

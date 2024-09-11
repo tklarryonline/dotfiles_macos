@@ -35,6 +35,7 @@ I prefer using Brew to install applications, and the list below includes my cons
 
 ### Terminal apps
 
+- [awscli] to manage and interact with AWS via the Command Line Interface.
 - [eva] as a simple calculator REPL, similar to bc(1), with syntax highlighting and persistent history.
 - [eza] as a Rust replacement for ls.
 - [homebrew-file] for efficient and reproducible brew package management.
@@ -51,6 +52,7 @@ I need to set up my development environment specifically.
 - [llvm@15] to install `grpc` gem. `llvm@15` requires lz4, xz and zstd.
 - [gpg][gnupg] (GNU Pretty Good Privacy (PGP) package) to help with installing `yarn` from asdf.
 
+[awscli]: https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html
 [discord]: https://discord.com/
 [docker-desktop]: https://www.docker.com/products/docker-desktop/
 [evkey]: https://evkeyvn.com/
