@@ -21,5 +21,8 @@ eval "$(direnv hook zsh)"
 # https://iterm2.com/documentation-shell-integration.html
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 
+# Set up the PATHs for PostgreSQL
 # Enables libpq
 export PATH="$(brew --prefix libpq)/bin:$PATH"
+# Enables postgresql@12
+export PATH="$(brew --prefix postgresql@12)/bin:$PATH"
