@@ -8,6 +8,7 @@ brew autoconf
 brew automake
 brew aws-vault
 brew awscli
+brew bash
 brew brotli
 brew ca-certificates
 brew caddy
@@ -15,10 +16,14 @@ brew cairo
 brew cffi
 brew coreutils
 brew cryptography
+brew curl
+brew dialog
+brew direnv
 brew dnscrypt-proxy
 brew eva
 brew eza
 brew fontconfig
+brew fop
 brew freetype
 brew fribidi
 brew fswatch
@@ -54,6 +59,7 @@ brew libidn2
 brew libksba
 brew libnghttp2
 brew libpng
+brew libpq
 brew librsvg
 brew libsodium
 brew libssh2
@@ -70,7 +76,9 @@ brew libxau
 brew libxcb
 brew libxdmcp
 brew libxext
+brew libxml2
 brew libxrender
+brew libxslt
 brew libyaml
 brew little-cms2
 brew llvm@15
@@ -91,18 +99,23 @@ brew nspr
 brew nss
 brew oniguruma
 brew openexr
+brew openjdk
+brew openssl@1.1
 brew openssl@3
 brew p11-kit
 brew pango
 brew pcre2
+brew pgcli
 brew pinentry
 brew pixman
+brew postgresql@12
 brew postgresql@15
 brew pycparser
 brew python@3.11
 brew python@3.12
 brew readline
 brew redis
+brew rtmpdump
 brew rush-parallel
 brew shellcheck
 brew sqlite
@@ -111,7 +124,9 @@ brew tree-sitter
 brew unbound
 brew unibilium
 brew unixodbc
+brew unzip
 brew webp
+brew wxwidgets
 brew xorgproto
 brew xz
 brew zstd
@@ -151,6 +166,6 @@ brew ejson
 # App Store applications
 appstore 682658836 GarageBand (10.4.8)
 appstore 408981434 iMovie (10.3.9)
-appstore 409183694 Keynote (14.1)
-appstore 409203825 Numbers (14.1)
-appstore 409201541 Pages (14.1)
+appstore 409183694 Keynote (14.2)
+appstore 409203825 Numbers (14.2)
+appstore 409201541 Pages (14.2)
