@@ -43,14 +43,17 @@ brew hadolint
 brew harfbuzz
 brew highway
 brew icu4c
+brew icu4c@75
 brew imath
 brew jasper
+brew jpeg
 brew jpeg-turbo
 brew jpeg-xl
 brew jq
 brew krb5
 brew libassuan
 brew libavif
+brew libdeflate
 brew libevent
 brew libgcrypt
 brew libgit2
@@ -111,8 +114,9 @@ brew pixman
 brew postgresql@12
 brew postgresql@15
 brew pycparser
-brew python@3.11
+brew python-packaging
 brew python@3.12
+brew python@3.13
 brew readline
 brew redis
 brew rtmpdump
@@ -125,14 +129,20 @@ brew unbound
 brew unibilium
 brew unixodbc
 brew unzip
+brew uv
 brew webp
 brew wxwidgets
 brew xorgproto
 brew xz
+brew yajl
 brew zstd
 
 tap homebrew/cask
+cask 1password-cli
+cask adobe-acrobat-reader
+cask anytype
 cask bruno
+cask cursor
 cask discord
 cask docker
 cask evkey
@@ -142,17 +152,22 @@ cask fork
 cask google-drive
 cask iterm2
 cask jetbrains-toolbox
+cask keymapp
 cask logi-options+
 cask notion
 cask notion-calendar
 cask obsidian
 cask rectangle
+cask session-manager-plugin
 cask visual-studio-code
 cask zoom
 
 tap homebrew/bundle
 
 tap homebrew/services
+
+tap eddieantonio/eddieantonio
+brew imgcat
 
 tap heroku/brew
 brew heroku
