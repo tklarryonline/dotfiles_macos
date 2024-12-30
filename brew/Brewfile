@@ -152,6 +152,7 @@ cask evkey
 cask firefox
 cask font-hack-nerd-font
 cask fork
+cask ghostty
 cask google-drive
 cask iterm2
 cask jetbrains-toolbox
