@@ -6,6 +6,7 @@ brew aom
 brew asdf
 brew autoconf
 brew automake
+brew aws-sam-cli
 brew aws-vault
 brew awscli
 brew bash
@@ -13,6 +14,7 @@ brew brotli
 brew ca-certificates
 brew caddy
 brew cairo
+brew certifi
 brew cffi
 brew coreutils
 brew cryptography
@@ -41,6 +43,7 @@ brew graphviz
 brew gts
 brew hadolint
 brew harfbuzz
+brew heroku
 brew highway
 brew icu4c
 brew icu4c@75
@@ -170,7 +173,6 @@ tap eddieantonio/eddieantonio
 brew imgcat
 
 tap heroku/brew
-brew heroku
 
 tap rcmdnk/file
 brew brew-file
@@ -181,6 +183,6 @@ brew ejson
 # App Store applications
 appstore 682658836 GarageBand (10.4.8)
 appstore 408981434 iMovie (10.3.9)
-appstore 409183694 Keynote (14.2)
-appstore 409203825 Numbers (14.2)
-appstore 409201541 Pages (14.2)
+appstore 409183694 Keynote (14.3)
+appstore 409203825 Numbers (14.3)
+appstore 409201541 Pages (14.3)
