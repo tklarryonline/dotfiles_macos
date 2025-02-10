@@ -4,9 +4,6 @@
 # - GNU Make
 # ***************************************************************
 
-# asdf set up
-# https://asdf-vm.com/guide/getting-started.html
-source $(brew --prefix)/opt/asdf/libexec/asdf.sh
 
 # GNU make setup
 # Switch to use GNU Make installation from Brew

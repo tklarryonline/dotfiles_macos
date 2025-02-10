@@ -4,8 +4,6 @@
 tap homebrew/core
 brew aom
 brew asdf
-brew autoconf
-brew automake
 brew aws-sam-cli
 brew aws-vault
 brew awscli
@@ -16,7 +14,6 @@ brew caddy
 brew cairo
 brew certifi
 brew cffi
-brew coreutils
 brew cryptography
 brew curl
 brew dialog
@@ -130,7 +127,6 @@ brew starship
 brew tree-sitter
 brew unbound
 brew unibilium
-brew unixodbc
 brew unzip
 brew uv
 brew webp
@@ -150,6 +146,7 @@ cask discord
 cask docker
 cask evkey
 cask firefox
+cask font-atkinson-hyperlegible-mono
 cask font-hack-nerd-font
 cask fork
 cask ghostty
