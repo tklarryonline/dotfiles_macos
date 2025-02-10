@@ -1,0 +1,30 @@
+# ***************************************************************
+# Ghostty terminal configuration
+# ***************************************************************
+#
+# To use this config:
+#   1. Create the config directory:
+#      mkdir -p $HOME/.config/ghostty
+#   2. Create a symbolic link:
+#      ln -s $(pwd)/ghostty/config $HOME/.config/ghostty/config
+#
+# For more information, visit:
+# https://github.com/mitchellh/ghostty
+
+# Window configuration
+window-padding-x = 15
+window-padding-y = 15
+
+# Font configuration
+font-family = "Atkinson Hyperlegible Mono"
+font-size = 14
+font-feature = "calt" # Enable font ligatures
+font-feature = "ss01" # Enable font stylistic set 1
+
+# Cursor configuration
+cursor-style = block
+cursor-style-blink = false
+
+# Color scheme
+theme = catppuccin-mocha
+
