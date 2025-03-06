@@ -14,6 +14,8 @@ brew caddy
 brew cairo
 brew certifi
 brew cffi
+brew cmake
+brew coreutils
 brew cryptography
 brew curl
 brew dialog
@@ -57,6 +59,7 @@ brew libdeflate
 brew libevent
 brew libgcrypt
 brew libgit2
+brew libgit2@1.8
 brew libgpg-error
 brew libidn2
 brew libksba
@@ -84,6 +87,7 @@ brew libxrender
 brew libxslt
 brew libyaml
 brew little-cms2
+brew llvm
 brew llvm@15
 brew lpeg
 brew luajit
@@ -111,6 +115,7 @@ brew pcre2
 brew pgcli
 brew pinentry
 brew pixman
+brew pkgconf
 brew postgresql@12
 brew postgresql@15
 brew pycparser
@@ -121,9 +126,11 @@ brew readline
 brew redis
 brew rtmpdump
 brew rush-parallel
+brew rust
 brew shellcheck
 brew sqlite
 brew starship
+brew tree
 brew tree-sitter
 brew unbound
 brew unibilium
@@ -134,6 +141,7 @@ brew wxwidgets
 brew xorgproto
 brew xz
 brew yajl
+brew z3
 brew zstd
 
 tap homebrew/cask
@@ -160,6 +168,7 @@ cask notion-calendar
 cask obsidian
 cask rectangle
 cask session-manager-plugin
+cask tableplus
 cask visual-studio-code
 cask zoom
 
@@ -171,6 +180,9 @@ tap eddieantonio/eddieantonio
 brew imgcat
 
 tap heroku/brew
+
+tap joshrotenberg/brew
+brew adrs
 
 tap rcmdnk/file
 brew brew-file

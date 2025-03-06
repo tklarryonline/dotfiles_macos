@@ -1,5 +1,3 @@
-[gpg]
-	format = ssh
 [gpg "ssh"]
 	program = /Applications/1Password.app/Contents/MacOS/op-ssh-sign
 [commit]
@@ -7,7 +5,7 @@
 [user]
 	name = Luan Nguyen
 	email = 2020169+tklarryonline@users.noreply.github.com
-	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN1bZ+mJhcL0Fz/onhpLdDEy1afX6hPSMKXeoWTHGkjo
+	signingkey = A1DF303019631C27
 [credential "https://github.com"]
 	helper = 
 	helper = !/opt/homebrew/bin/gh auth git-credential
@@ -16,3 +14,7 @@
 	helper = !/opt/homebrew/bin/gh auth git-credential
 [includeIf "gitdir:~/Dev/Envato/src/"]
     path = ~/Dev/Envato/src/.gitconfig
+[tag]
+	gpgSign = true
+[gpg]
+	program = /opt/homebrew/bin/gpg
