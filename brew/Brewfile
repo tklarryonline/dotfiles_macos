@@ -4,6 +4,8 @@
 tap homebrew/core
 brew aom
 brew asdf
+brew autoconf
+brew automake
 brew aws-sam-cli
 brew aws-vault
 brew awscli
@@ -33,6 +35,7 @@ brew gdk-pixbuf
 brew gettext
 brew gh
 brew giflib
+brew git
 brew glib
 brew gmp
 brew gnupg
@@ -44,8 +47,9 @@ brew hadolint
 brew harfbuzz
 brew heroku
 brew highway
+brew iamy
 brew icu4c
-brew icu4c@75
+brew icu4c@76
 brew imath
 brew jasper
 brew jpeg
@@ -59,7 +63,6 @@ brew libdeflate
 brew libevent
 brew libgcrypt
 brew libgit2
-brew libgit2@1.8
 brew libgpg-error
 brew libidn2
 brew libksba
@@ -98,12 +101,14 @@ brew m4
 brew make
 brew mpdecimal
 brew msgpack
+brew ncurses
 brew neovim
 brew netpbm
 brew nettle
 brew npth
 brew nspr
 brew nss
+brew ollama
 brew oniguruma
 brew openexr
 brew openjdk
@@ -117,6 +122,7 @@ brew pinentry
 brew pixman
 brew pkgconf
 brew postgresql@12
+brew postgresql@13
 brew postgresql@15
 brew pycparser
 brew python-packaging
@@ -134,7 +140,9 @@ brew tree
 brew tree-sitter
 brew unbound
 brew unibilium
+brew unixodbc
 brew unzip
+brew utf8proc
 brew uv
 brew webp
 brew wxwidgets
@@ -149,9 +157,10 @@ cask 1password-cli
 cask adobe-acrobat-reader
 cask anytype
 cask bruno
+cask claude
 cask cursor
 cask discord
-cask docker
+cask docker-desktop
 cask evkey
 cask firefox
 cask font-atkinson-hyperlegible-mono
@@ -179,6 +188,8 @@ tap homebrew/services
 tap eddieantonio/eddieantonio
 brew imgcat
 
+tap envato/envato-iamy
+
 tap heroku/brew
 
 tap joshrotenberg/brew
@@ -190,9 +201,12 @@ brew brew-file
 tap shopify/shopify
 brew ejson
 
+# Other Cask applications
+cask docker
+
 # App Store applications
 appstore 682658836 GarageBand (10.4.8)
 appstore 408981434 iMovie (10.3.9)
-appstore 409183694 Keynote (14.3)
-appstore 409203825 Numbers (14.3)
-appstore 409201541 Pages (14.3)
+appstore 409183694 Keynote (14.4)
+appstore 409203825 Numbers (14.4)
+appstore 409201541 Pages (14.4)

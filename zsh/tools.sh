@@ -32,3 +32,6 @@ export PATH="$(brew --prefix postgresql@12)/bin:$PATH"
 # Set up GPG key
 # https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 export GPG_TTY="$(tty)"
+
+# Global node packages setup
+# export PATH="$(asdf where nodejs 24.2.0)/bin:$PATH"

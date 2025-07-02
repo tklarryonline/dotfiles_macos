@@ -28,3 +28,4 @@ cursor-style-blink = false
 # Color scheme
 theme = catppuccin-mocha
 
+keybind = shift+enter=text:\n

@@ -20,3 +20,11 @@ source "$DOT_ZSH_CONFIG/tools.sh"
 
 # Aliases
 source "$DOT_ZSH_CONFIG/aliases.sh"
+
+# pnpm
+export PNPM_HOME="/Users/tklarryonline/Library/pnpm"
+case ":$PATH:" in
+  *":$PNPM_HOME:"*) ;;
+  *) export PATH="$PNPM_HOME:$PATH" ;;
+esac
+# pnpm end
