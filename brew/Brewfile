@@ -2,6 +2,9 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew abseil
+brew act
+brew adr-tools
 brew aom
 brew asdf
 brew autoconf
@@ -11,6 +14,7 @@ brew aws-vault
 brew awscli
 brew bash
 brew brotli
+brew c-ares
 brew ca-certificates
 brew caddy
 brew cairo
@@ -20,6 +24,7 @@ brew cmake
 brew coreutils
 brew cryptography
 brew curl
+brew dav1d
 brew dialog
 brew direnv
 brew dnscrypt-proxy
@@ -27,6 +32,7 @@ brew eva
 brew eza
 brew fontconfig
 brew fop
+brew foreman
 brew freetype
 brew fribidi
 brew fswatch
@@ -50,6 +56,8 @@ brew highway
 brew iamy
 brew icu4c
 brew icu4c@76
+brew icu4c@77
+brew imagemagick
 brew imath
 brew jasper
 brew jpeg
@@ -59,22 +67,33 @@ brew jq
 brew krb5
 brew libassuan
 brew libavif
+brew libcbor
+brew libde265
 brew libdeflate
 brew libevent
+brew libfido2
 brew libgcrypt
 brew libgit2
 brew libgpg-error
+brew libheif
 brew libidn2
 brew libksba
+brew liblqr
+brew libmaxminddb
 brew libnghttp2
+brew libnghttp3
+brew libngtcp2
+brew libomp
 brew libpng
 brew libpq
+brew libraw
 brew librsvg
 brew libsodium
 brew libssh2
 brew libtasn1
 brew libtiff
 brew libtool
+brew libultrahdr
 brew libunistring
 brew libusb
 brew libuv
@@ -89,6 +108,7 @@ brew libxml2
 brew libxrender
 brew libxslt
 brew libyaml
+brew libzip
 brew little-cms2
 brew llvm
 brew llvm@15
@@ -101,10 +121,12 @@ brew m4
 brew make
 brew mpdecimal
 brew msgpack
+brew mysql@8.0
 brew ncurses
 brew neovim
 brew netpbm
 brew nettle
+brew node
 brew npth
 brew nspr
 brew nss
@@ -112,6 +134,8 @@ brew ollama
 brew oniguruma
 brew openexr
 brew openjdk
+brew openjpeg
+brew openjph
 brew openssl@1.1
 brew openssl@3
 brew p11-kit
@@ -119,13 +143,14 @@ brew pango
 brew pcre2
 brew pgcli
 brew pinentry
+brew pipenv
 brew pixman
 brew pkgconf
 brew postgresql@12
 brew postgresql@13
 brew postgresql@15
+brew protobuf
 brew pycparser
-brew python-packaging
 brew python@3.12
 brew python@3.13
 brew readline
@@ -133,9 +158,12 @@ brew redis
 brew rtmpdump
 brew rush-parallel
 brew rust
+brew shared-mime-info
 brew shellcheck
+brew simdjson
 brew sqlite
 brew starship
+brew svgo
 brew tree
 brew tree-sitter
 brew unbound
@@ -144,18 +172,22 @@ brew unixodbc
 brew unzip
 brew utf8proc
 brew uv
+brew uvwasi
 brew webp
 brew wxwidgets
+brew x265
 brew xorgproto
 brew xz
 brew yajl
 brew z3
+brew zlib
 brew zstd
 
 tap homebrew/cask
 cask 1password-cli
 cask adobe-acrobat-reader
 cask anytype
+cask aws-vault-binary
 cask bruno
 cask claude
 cask cursor
@@ -171,19 +203,22 @@ cask google-drive
 cask iterm2
 cask jetbrains-toolbox
 cask keymapp
-cask logi-options+
 cask notion
 cask notion-calendar
 cask obsidian
+cask postgres-unofficial
 cask rectangle
 cask session-manager-plugin
 cask tableplus
 cask visual-studio-code
+cask zed
 cask zoom
 
 tap homebrew/bundle
 
 tap homebrew/services
+
+tap 1password/tap
 
 tap eddieantonio/eddieantonio
 brew imgcat
@@ -200,6 +235,7 @@ brew brew-file
 
 tap shopify/shopify
 brew ejson
+brew ejson2env
 
 # Other Cask applications
 cask docker
@@ -210,3 +246,4 @@ appstore 408981434 iMovie (10.3.9)
 appstore 409183694 Keynote (14.4)
 appstore 409203825 Numbers (14.4)
 appstore 409201541 Pages (14.4)
+appstore 310633997 WhatsApp (25.37.76)
