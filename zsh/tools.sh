@@ -34,7 +34,8 @@ export PATH="/opt/homebrew/opt/postgresql@15/bin:$PATH"
 # https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 export GPG_TTY="$(tty)"
 
-# Global node packages setup
-# export PATH="$(asdf where nodejs 24.2.0)/bin:$PATH"
+# Global claude code setup
+export PATH="/opt/homebrew/bin/claude:$PATH"
 
-#
+# Local API tokens / secrets (gitignored). See zsh/secrets.sh.example.
+[[ -f "$DOT_ZSH_CONFIG/secrets.sh" ]] && source "$DOT_ZSH_CONFIG/secrets.sh"

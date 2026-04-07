@@ -1,0 +1,3 @@
+# Local secrets (copy from zsh/secrets.sh.example)
+zsh/secrets.sh
+.DS_Store

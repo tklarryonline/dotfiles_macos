@@ -29,7 +29,7 @@ alias gco='git checkout'
 # aliasecho function
 # This function is a wrapper around alias to echo the command being executed,
 # followed by a divider (------), and then runs the command.
-# 
+#
 # Purpose:
 # This was created to ensure that when an alias is used, the full command and
 # arguments passed to the alias are printed before execution, providing better visibility
@@ -51,3 +51,5 @@ aliasecho axes='aws-vault exec developer@elements-staging'
 aliasecho axep='aws-vault exec developer@elements-production'
 aliasecho axins='aws-vault login developer@elements-staging'
 aliasecho axinp='aws-vault login developer@elements-production'
+aliasecho axns='aws-vault exec Newvato-Staging.Developer'
+aliasecho axnp='aws-vault exec Newvato-Production.Developer'

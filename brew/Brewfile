@@ -68,6 +68,7 @@ brew krb5
 brew libassuan
 brew libavif
 brew libcbor
+brew libdatrie
 brew libde265
 brew libdeflate
 brew libevent
@@ -91,6 +92,7 @@ brew librsvg
 brew libsodium
 brew libssh2
 brew libtasn1
+brew libthai
 brew libtiff
 brew libtool
 brew libultrahdr
@@ -243,7 +245,7 @@ cask docker
 # App Store applications
 appstore 682658836 GarageBand (10.4.8)
 appstore 408981434 iMovie (10.3.9)
-appstore 409183694 Keynote (14.4)
-appstore 409203825 Numbers (14.4)
-appstore 409201541 Pages (14.4)
-appstore 310633997 WhatsApp (25.37.76)
+appstore 409183694 Keynote (14.5)
+appstore 409203825 Numbers (14.5)
+appstore 409201541 Pages (14.5)
+appstore 310633997 WhatsApp (26.2.74)
